@@ -1,3 +1,3 @@
 # minecraft-skins-db
-a database of minecraft skins
-[](https://www.kaggle.com/datasets/barrulik/minecraftskins)
+a dataset of minecraft skins
+[the dataset](https://www.kaggle.com/datasets/barrulik/minecraftskins)
